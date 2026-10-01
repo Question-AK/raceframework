@@ -175,9 +175,7 @@
       "fireDamageFactor": 2.0,
       "gravityDamageFactor": 5.3,
       "saturationLossFactor": 4.31,
-      "animalSeekingRange": 0.5,
-      "swimSpeed": -0.75,
-      "buoyancyFactor": -1.0
+      "animalSeekingRange": 0.5
     }
   }
 ]

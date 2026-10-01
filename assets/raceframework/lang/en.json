@@ -176,8 +176,5 @@
   "game:charattribute-gravityDamageFactor-5.30": "+530% fall damage",
   "game:charattribute-saturationLossFactor-4.31": "+431% hunger rate",
   "game:charattribute-animalSeekingRange-0.5": "+50% animal detection range",
-  "game:charattribute-animalSeekingRange-0.50": "+50% animal detection range",
-  "game:charattribute-swimSpeed--0.75": "-75% swim speed",
-  "game:charattribute-buoyancyFactor--1": "Sinks in water",
-  "game:charattribute-buoyancyFactor--1.0": "Sinks in water"
+  "game:charattribute-animalSeekingRange-0.50": "+50% animal detection range"
 }

@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.1.0-halfgiant.2 - local test build, 1 October 2026
+
+- Removes the Half-Giant swim speed −75% and sinking penalties, which kept it from
+  reaching the surface. Its height already makes surfacing about four times slower than
+  a human's, and holding Space alone does not lift it out of deep water: swim up with
+  Space plus forward, or by looking up and swimming forward.
+- Everything else is unchanged from 1.1.0-halfgiant.1.
+
+Local test only; not for the Khorvaire server or ModDB.
+
 ## 1.1.0-halfgiant.1 - local test build, 1 October 2026
 
 - Adds the Half-Giant as a sixth playable model: the Racial Equality Human at 2.1× size,
