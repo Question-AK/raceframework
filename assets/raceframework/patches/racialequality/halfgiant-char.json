@@ -1,0 +1,32 @@
+[
+  {
+    "file": "racialequality:config/customplayermodels/human-char.json",
+    "op": "copy",
+    "fromPath": "/human",
+    "path": "/halfgiant"
+  },
+  {
+    "file": "racialequality:config/customplayermodels/human-char.json",
+    "op": "add",
+    "path": "/halfgiant/AvailableClasses",
+    "value": [ "commoner", "hunter", "malefactor", "clockmaker", "blackguard", "tailor" ]
+  },
+  {
+    "file": "racialequality:config/customplayermodels/human-char.json",
+    "op": "add",
+    "path": "/halfgiant/ExtraTraits",
+    "value": [ "rf-halfgiant-positive", "rf-halfgiant-negative" ]
+  },
+  {
+    "file": "racialequality:config/customplayermodels/human-char.json",
+    "op": "add",
+    "path": "/halfgiant/ModelSizeFactor",
+    "value": 2.1
+  },
+  {
+    "file": "racialequality:config/customplayermodels/human-char.json",
+    "op": "add",
+    "path": "/halfgiant/StepHeight",
+    "value": 2.1
+  }
+]

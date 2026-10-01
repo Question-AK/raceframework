@@ -151,5 +151,33 @@
     "code": "rf-human-positive",
     "type": "positive",
     "attributes": {}
+  },
+  {
+    "code": "rf-halfgiant-positive",
+    "type": "positive",
+    "attributes": {
+      "meleeWeaponsDamage": 1.0,
+      "maxhealthExtraPoints": 30,
+      "maxSaturationFactor": 4.31,
+      "walkspeed": 0.25,
+      "sprintSpeed": 0.25,
+      "warmthBonus": 7
+    }
+  },
+  {
+    "code": "rf-halfgiant-negative",
+    "type": "negative",
+    "attributes": {
+      "frostDamageFactor": 2.0,
+      "heatDamageFactor": 2.0,
+      "hungerDamageFactor": 2.0,
+      "suffocationDamageFactor": 2.0,
+      "fireDamageFactor": 2.0,
+      "gravityDamageFactor": 5.3,
+      "saturationLossFactor": 4.31,
+      "animalSeekingRange": 0.5,
+      "swimSpeed": -0.75,
+      "buoyancyFactor": -1.0
+    }
   }
 ]

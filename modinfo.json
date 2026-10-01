@@ -5,8 +5,8 @@
   "authors": [
     "Question"
   ],
-  "description": "Race traits and class choices for humans, dwarves, elves, orcs and goblins, using Racial Equality and Player Model Library.",
-  "version": "1.0.0",
+  "description": "Race traits and class choices for humans, dwarves, elves, orcs, goblins and half-giants, using Racial Equality and Player Model Library.",
+  "version": "1.1.0-halfgiant.1",
   "dependencies": {
     "game": "1.22.6",
     "playermodellib": "1.23.8",

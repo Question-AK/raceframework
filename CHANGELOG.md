@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.1.0-halfgiant.1 - local test build, 1 October 2026
+
+- Adds the Half-Giant as a sixth playable model: the Racial Equality Human at 2.1× size,
+  cloned by JSON patch so no Racial Equality files are copied.
+- Half-Giant traits: +100% melee, +30 max health, stomach and hunger ×5.31, walk and
+  sprint +25%, +7 °C warmth; frost, heat, starvation, drowning and fire damage ×3, fall
+  damage ×6.3, +50% animal detection, swim speed −75%, sinks.
+- Model step height 2.1. RF Mechanics 1.1.2 overrides step height for races it does not
+  recognise, so expect 1.0 until RF Mechanics knows the Half-Giant.
+- Built on 1.0.0; the unshipped dwarf-subrace removal (D18) is not included.
+
+Local test only; not for the Khorvaire server or ModDB.
+
 ## 1.0.0 - initial baseline, 7 September 2026
 
 - Race traits and class choices for humans, dwarves, elves, orcs and goblins.
