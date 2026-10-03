@@ -1,8 +1,8 @@
 # Race Framework
 
-Initial baseline **1.0.0** for Vintage Story **1.22.6**. Live gameplay acceptance is still pending; expect bugs and balance changes.
+Release **1.1.0** for Vintage Story **1.22.6**. Adds the Half-Giant, retunes Orc and Elf hunger and removes the dwarf subraces; see CHANGELOG.md. Live multiplayer testing is still limited; expect bugs and balance changes.
 
-**Summary:** Racial strengths, drawbacks and class choices for humans, dwarves, elves, orcs and goblins.
+**Summary:** Racial strengths, drawbacks and class choices for humans, dwarves, elves, orcs, goblins and half-giants.
 
 ### Development and AI use
 
@@ -12,7 +12,7 @@ That includes generating and explaining code and data, researching implementatio
 
 ### What it does
 
-Race Framework makes race a meaningful part of your character. Humans, dwarves, elves, orcs and goblins have different strengths and limitations, affecting gathering, movement, combat and food capacity.
+Race Framework makes race a meaningful part of your character. Humans, dwarves, elves, orcs, goblins and half-giants have different strengths and limitations, affecting gathering, movement, combat and food capacity.
 
 Your race and class remain separate choices, with available classes configured for each race. Character models and customization are supplied by **Racial Equality** and **Player Model Library**. Race Framework provides the traits and class setup around those projects.
 
@@ -37,11 +37,11 @@ I have not tested adding this mod to an existing world. No new-world requirement
 
 Existing characters may need race/class reselection. Removing Race Framework can leave characters assigned to classes that are no longer available.
 
-### D18 — no dwarf subraces
+### No dwarf subraces
 
-D18 removes dwarf subraces; no race has subraces. Dwarves now choose the six vanilla classes: commoner, hunter, malefactor, clockmaker, blackguard and tailor. Race Framework defines no dwarf subrace classes or marker traits.
+Race Framework 1.1.0 removes the dwarf subraces; no race has subraces. Dwarves now choose the six vanilla classes: commoner, hunter, malefactor, clockmaker, blackguard and tailor. Race Framework defines no dwarf subrace classes or marker traits.
 
-Existing worlds with dwarves saved as a removed subrace require the matching RF Mechanics release, which resets the retired class to `commoner` at login. Without it, the vanilla character dialog faults on the missing class.
+Existing worlds with Mountain or Hill Dwarf characters need RF Mechanics 1.2.0, which resets the retired class to `commoner` at login. Without it, Player Model Library's trait application raises an `ArgumentException` for the missing class when those characters load.
 
 ### Planned races
 
