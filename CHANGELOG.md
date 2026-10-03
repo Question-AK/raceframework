@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.1.0-halfgiant.3 - local test build, 3 October 2026
+
+Hunger trial values; a full stomach now lasts, relative to a Human:
+
+- Orc: +40% hunger rate, stomach unchanged (+150%). About 1.8× as long, down from 2.5×.
+- Half-Giant: stomach +630% (was +431%), hunger rate unchanged (+431%). About 1.4× as
+  long, up from 1.0×.
+- Elf: −10% hunger rate, stomach unchanged (−30%). About 0.78× as long, up from 0.7×.
+- Everything else is unchanged from 1.1.0-halfgiant.2.
+
+Local test only; not for the Khorvaire server or ModDB.
+
 ## 1.1.0-halfgiant.2 - local test build, 1 October 2026
 
 - Removes the Half-Giant swim speed −75% and sinking penalties, which kept it from

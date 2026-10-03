@@ -84,6 +84,8 @@
   "game:charattribute-rfFallDamageReduction-0.6": "-60% fall damage",
   "game:charattribute-rfTreeClimbing-1": "Climbs tree trunks",
   "game:charattribute-rfBranchyLeavesPassthrough-1": "Walks through branchy leaves",
+  "game:charattribute-saturationLossFactor--0.1": "-10% hunger rate",
+  "game:charattribute-saturationLossFactor--0.10": "-10% hunger rate",
 
   "game:charattribute-miningSpeedMul--0.35": "-35% mining speed",
   "game:charattribute-oreDropRate--0.2": "-20% ore yield",
@@ -108,6 +110,8 @@
   "game:charattribute-dv-adaptationLossTime-15": "Loses dark adaptation fast in light",
   "game:charattribute-dv-exposureLag-15": "Briefly dazzled by light",
   "game:charattribute-dv-exposureMultiplier-1.4": "+40% dazzle",
+  "game:charattribute-saturationLossFactor-0.4": "+40% hunger rate",
+  "game:charattribute-saturationLossFactor-0.40": "+40% hunger rate",
 
   "game:charattribute-walkspeed-0.1": "+10% walk speed",
   "game:charattribute-walkspeed-0.10": "+10% walk speed",
@@ -157,7 +161,8 @@
   "game:charattribute-meleeWeaponsDamage-1.0": "+100% melee damage",
   "game:charattribute-maxhealthExtraPoints-30": "+30 max health",
   "game:charattribute-maxhealthExtraPoints-30.0": "+30 max health",
-  "game:charattribute-maxSaturationFactor-4.31": "+431% stomach size",
+  "game:charattribute-maxSaturationFactor-6.3": "+630% stomach size",
+  "game:charattribute-maxSaturationFactor-6.30": "+630% stomach size",
   "game:charattribute-walkspeed-0.25": "+25% walk speed",
   "game:charattribute-sprintSpeed-0.25": "+25% sprint speed",
   "game:charattribute-warmthBonus-7": "+7°C warmth",

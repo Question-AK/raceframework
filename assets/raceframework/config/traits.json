@@ -65,7 +65,8 @@
       "animalLootDropRate": 0.25,
       "rfFallDamageReduction": 0.6,
       "rfTreeClimbing": 1,
-      "rfBranchyLeavesPassthrough": 1
+      "rfBranchyLeavesPassthrough": 1,
+      "saturationLossFactor": -0.1
     }
   },
   {
@@ -101,7 +102,8 @@
       "dv-adaptationLossTime": 15,
       "dv-exposureLag": 15,
       "dv-exposureMultiplier": 1.4,
-      "rangedWeaponsAcc": -0.25
+      "rangedWeaponsAcc": -0.25,
+      "saturationLossFactor": 0.4
     }
   },
   {
@@ -158,7 +160,7 @@
     "attributes": {
       "meleeWeaponsDamage": 1.0,
       "maxhealthExtraPoints": 30,
-      "maxSaturationFactor": 4.31,
+      "maxSaturationFactor": 6.3,
       "walkspeed": 0.25,
       "sprintSpeed": 0.25,
       "warmthBonus": 7
