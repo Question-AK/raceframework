@@ -42,16 +42,6 @@
     "attributes": {}
   },
   {
-    "code": "rf-mountain-dwarf-marker",
-    "type": "positive",
-    "attributes": {}
-  },
-  {
-    "code": "rf-hill-dwarf-marker",
-    "type": "positive",
-    "attributes": {}
-  },
-  {
     "code": "rf-elf-positive",
     "type": "positive",
     "attributes": {

@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- D18 removes dwarf subraces. Dwarves now choose the six vanilla classes: commoner, hunter, malefactor, clockmaker, blackguard and tailor.
+- Existing worlds with dwarves saved as a removed subrace require the matching RF Mechanics release, which resets the retired class to `commoner` at login. Without it, the vanilla character dialog faults on the missing class.
+
 ## 1.1.0-halfgiant.4 - local test build, 3 October 2026
 
 - Elf: −47.5% hunger rate (was −10% in halfgiant.3), stomach unchanged (−30%). A full

@@ -9,7 +9,7 @@
     "file": "racialequality:config/customplayermodels/dwarf-char.json",
     "op": "replace",
     "path": "/dwarf/AvailableClasses",
-    "value": [ "rf-mountain-dwarf", "rf-hill-dwarf" ]
+    "value": [ "commoner", "hunter", "malefactor", "clockmaker", "blackguard", "tailor" ]
   },
   {
     "file": "racialequality:config/customplayermodels/dwarf-char.json",

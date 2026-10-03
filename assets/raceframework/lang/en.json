@@ -3,21 +3,12 @@
 // matching traits.json renders nothing and raises no error, so change both together.
 // Both decimal forms (0.1 and 0.10) are kept because the suffix form is not fixed.
 {
-  "game:characterclass-rf-mountain-dwarf": "Mountain Dwarf",
-  "game:characterclass-rf-hill-dwarf": "Hill Dwarf",
-  "game:characterdesc-rf-mountain-dwarf": "Placeholder description.",
-  "game:characterdesc-rf-hill-dwarf": "Placeholder description.",
-
   "game:traitname-rf-dwarf-positive": "Dwarf Positive Trait",
   "game:trait-rf-dwarf-positive": "<font color=\"#84ff84\">• Dwarf Positive Trait</font>",
   "game:traitname-rf-dwarf-negative": "Dwarf Negative Trait",
   "game:trait-rf-dwarf-negative": "<font color=\"#ff8484\">• Dwarf Negative Trait</font>",
   "game:traitname-rf-dwarf-crafting": "Dwarven Craft",
   "game:trait-rf-dwarf-crafting": "<font color=\"#84ff84\">• Dwarven Craft</font>",
-  "game:traitname-rf-mountain-dwarf-marker": "Deep Delver",
-  "game:trait-rf-mountain-dwarf-marker": "<font color=\"#84ff84\">• Deep Delver</font>",
-  "game:traitname-rf-hill-dwarf-marker": "Hill Forager",
-  "game:trait-rf-hill-dwarf-marker": "<font color=\"#84ff84\">• Hill Forager</font>",
 
   "game:traitname-rf-elf-positive": "Elf Positive Trait",
   "game:trait-rf-elf-positive": "<font color=\"#84ff84\">• Elf Positive Trait</font>",

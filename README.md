@@ -37,6 +37,12 @@ I have not tested adding this mod to an existing world. No new-world requirement
 
 Existing characters may need race/class reselection. Removing Race Framework can leave characters assigned to classes that are no longer available.
 
+### D18 — no dwarf subraces
+
+D18 removes dwarf subraces; no race has subraces. Dwarves now choose the six vanilla classes: commoner, hunter, malefactor, clockmaker, blackguard and tailor. Race Framework defines no dwarf subrace classes or marker traits.
+
+Existing worlds with dwarves saved as a removed subrace require the matching RF Mechanics release, which resets the retired class to `commoner` at login. Without it, the vanilla character dialog faults on the missing class.
+
 ### Planned races
 
 I plan to keep developing the existing races and expand the roster with **Halflings, Gnomes, Giants, Frogs, Merpeople, Bugs, Dragon-kin and Cows**.
