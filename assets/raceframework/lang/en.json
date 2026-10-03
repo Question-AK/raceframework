@@ -84,8 +84,7 @@
   "game:charattribute-rfFallDamageReduction-0.6": "-60% fall damage",
   "game:charattribute-rfTreeClimbing-1": "Climbs tree trunks",
   "game:charattribute-rfBranchyLeavesPassthrough-1": "Walks through branchy leaves",
-  "game:charattribute-saturationLossFactor--0.1": "-10% hunger rate",
-  "game:charattribute-saturationLossFactor--0.10": "-10% hunger rate",
+  "game:charattribute-saturationLossFactor--0.475": "-47.5% hunger rate",
 
   "game:charattribute-miningSpeedMul--0.35": "-35% mining speed",
   "game:charattribute-oreDropRate--0.2": "-20% ore yield",

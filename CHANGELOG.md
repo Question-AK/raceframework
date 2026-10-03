@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.0-halfgiant.4 - local test build, 3 October 2026
+
+- Elf: −47.5% hunger rate (was −10% in halfgiant.3), stomach unchanged (−30%). A full
+  stomach now lasts about 1.33× as long as a Human's, and a small meal goes a long way.
+- Everything else is unchanged from 1.1.0-halfgiant.3, which was never installed.
+
+Local test only; not for the Khorvaire server or ModDB.
+
 ## 1.1.0-halfgiant.3 - local test build, 3 October 2026
 
 Hunger trial values; a full stomach now lasts, relative to a Human:
