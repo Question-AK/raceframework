@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.1-rp.1 - local test candidate, 6 October 2026
+
+- Adds own-body hunger guidance to the six race-selection descriptions.
+- Preserves all 1.1.0 race traits, models, classes and dependencies; no diet bindings or balance changes.
+- Local trial only; in-game text layout remains pending player testing.
+
 ## 1.1.0 - 4 October 2026
 
 - Adds the Half-Giant, a sixth playable race: the Racial Equality Human at 2.1× size, cloned by JSON patch so no
