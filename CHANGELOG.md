@@ -1,10 +1,13 @@
 # Changelog
 
-## 1.1.1-rp.1 - local test candidate, 6 October 2026
+## 1.1.1 - 7 October 2026
 
-- Adds own-body hunger guidance to the six race-selection descriptions.
-- Preserves all 1.1.0 race traits, models, classes and dependencies; no diet bindings or balance changes.
-- Local trial only; in-game text layout remains pending player testing.
+- Each race's description on the character-selection screen now says how its body handles food: how much it holds
+  and how soon it gets hungry.
+- The Half-Giant description no longer calls its values a test build.
+- No trait, class, model, balance or dependency changes from 1.1.0.
+
+For Vintage Story 1.22.6.
 
 ## 1.1.0 - 4 October 2026
 

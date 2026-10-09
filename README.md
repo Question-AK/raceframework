@@ -1,6 +1,6 @@
 # Race Framework
 
-Release **1.1.0** for Vintage Story **1.22.6**. Adds the Half-Giant, retunes Orc and Elf hunger and removes the dwarf subraces; see CHANGELOG.md. Live multiplayer testing is still limited; expect bugs and balance changes.
+Release **1.1.1** for Vintage Story **1.22.6**. Adds hunger guidance to the race descriptions; 1.1.0 added the Half-Giant, retuned Orc and Elf hunger and removed the dwarf subraces. See CHANGELOG.md. Live multiplayer testing is still limited; expect bugs and balance changes.
 
 **Summary:** Racial strengths, drawbacks and class choices for humans, dwarves, elves, orcs, goblins and half-giants.
 
